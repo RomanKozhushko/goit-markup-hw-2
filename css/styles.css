@@ -53,6 +53,7 @@ body {
   color: var(--title-text-color);
   text-decoration: none;
 }
+
 .link:hover,
 .link:focus{
   color: var(--accent-color);
@@ -89,6 +90,13 @@ body {
   border: none;
   cursor: pointer;
 }
+
+.presi:hover,
+.presi:focus{
+  background-color: var(--accent-color);
+  color: #ffffff;
+}
+
 /* Main */
 
 }
